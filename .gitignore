@@ -1,0 +1,7 @@
+# 项目排除路径
+/services/seata-account/target/
+/services/seata-business/target/
+/services/seata-order/target/
+/services/seata-storage/target/
+/services/service-order/target/
+/services/service-product/target/
