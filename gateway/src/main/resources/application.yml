@@ -1,7 +1,7 @@
 spring:
   #对指定的配置文件生效
   profiles:
-    include: rote
+    include: route
   application:
     name: gateway
   cloud:
